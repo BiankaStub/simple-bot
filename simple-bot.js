@@ -1,4 +1,3 @@
-<script>
 // Caspio API configuration
 const CASPIO_API_ENDPOINT = "https://c8dzk216.caspio.com";
 const CASPIO_CLIENT_ID = "5d9d26cc556a4f55d48db936b5f3a7ea0e16f4fd094b4a7ae1";
@@ -1416,4 +1415,3 @@ function setupChatbotEventListeners(config) {
     chatbotMessages.scrollTop = chatbotMessages.scrollHeight;
   }
 }
-</script>
